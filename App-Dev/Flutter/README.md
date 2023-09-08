@@ -29,7 +29,7 @@ your choice.
   - [Android Emulator](#android-emulator)
   - [IOS Emulator](#ios-emulator)
 - [Create Flutter App](#create-flutter-app)
-- [Flutter Commands](#flutter-commands)
+
 - [Important Packages](#packages)
 
   - [Fonts](#fonts)
