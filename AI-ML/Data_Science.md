@@ -63,5 +63,8 @@ Start with this course only if you have ample of time to complete it, otherwise 
 # 6 months Data Science Roadmap in 2023
 (free course)
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
+##Coursera free course by IBM for python:
+https://www.coursera.org/learn/python-for-applied-data-science-ai
+
 ### 1.this google sheet contain the links to all the vedios in an appropriate order.
 ### 2.You will also be able to monitor your progress in the course.
